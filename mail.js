@@ -1,12 +1,6 @@
 const firebaseConfig = {
   //   copy your firebase config informations
-  apiKey: "AIzaSyBLydAZ9YexyZvLcFp9vCnlRHkVXr0QamE",
-    authDomain: "contactformportfolio-504d5.firebaseapp.com",
-    databaseURL: "https://contactformportfolio-504d5-default-rtdb.firebaseio.com",
-    projectId: "contactformportfolio-504d5",
-    storageBucket: "contactformportfolio-504d5.appspot.com",
-    messagingSenderId: "863715563668",
-    appId: "1:863715563668:web:cf26f4f29184079ac2fc81"
+ 
 };
 
 // initialize firebase
